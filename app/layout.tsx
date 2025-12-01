@@ -10,15 +10,15 @@ export const metadata: Metadata = {
   title: "Christophe Azimale - Personal Fitness Coach",
   description:
     "Build strength, confidence & consistency with online coaching from certified personal trainer Christophe Azimale.",
-  generator: "v0.app",
+  generator: "booltspace",
   icons: {
     icon: [
       {
-        url: "/icon-light-32x32.png",
+        url: "/icon.png",
         media: "(prefers-color-scheme: light)",
       },
       {
-        url: "/icon-dark-32x32.png",
+        url: "/icon.png",
         media: "(prefers-color-scheme: dark)",
       },
       {
